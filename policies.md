@@ -31,6 +31,9 @@ Homework assignments
 ====================
 
 Assignments will be given a numerical grade based on correctness and clarity of exposition.
+You may hand in your homework (neatly) handwritten or printed out. If you use a computer,
+the printout must be typeset with proper mathematical symbols and notation; I strongly
+recommend using [LaTeX](https://www.latex-project.org/).
 
 Homework will be collected weekly, on Wednesdays; the problems are listed on the [syllabus](syllabus.html).
 Problems listed next to a given date are to be *started* on that date. They will be
@@ -41,6 +44,27 @@ Any further lateness will get a 50% penalty
 on that assignment. Homework submitted more than a week late will not be graded.
 
 You are encouraged to work together on assignments, but you must write up your own solutions.
+
+Piazza
+======
+
+There is a course question-and-answer forum at
+<https://piazza.com/brynmawr/fall2017/cs231/home>. This forum is hosted by an
+educational service, Piazza, and it will be the primary means of electronic
+communication in this course. It is free to use. Piazza offers the ability to ask
+questions anonymously (either anonymous to everyone or only to fellow students, but not
+instructors) and for one student to see others' questions. You may also use the
+site to send private messages/questions to the instructors of the course.
+
+If you have a question about the material, the course, extensions, or anything else,
+please use Piazza.
+
+Piazza also has the ability to send out announcements. Any coursewide information will
+go through that site, which will send everyone an email with the info.
+
+I do tend to respond to questions during business hours only; something posted Friday
+evening might not get a response until Monday. However, an advantage to posting on
+Piazza is that a fellow student or a TA might answer a question before I can.
 
 GitHub
 ======
@@ -63,31 +87,6 @@ verification form and make appropriate arrangements. Please note that
 accommodations are not retroactive and require advance notice to implement.
 More information can be obtained at the [Access Services
 website](http://www.brynmawr.edu/access_services/).
-
-Email
-=====
-
-I use email heavily as a way of communicating with students and colleagues.
-Accordingly, I expect all my students to check email daily at their college
-email address. There may be important announcements / corrections / other
-messages there. Please read them!
-
-As an avid emailer, I also am happy to receive email from all of you. During
-business hours, you can expect a response from me within a few hours of your
-email -- often much sooner. After 5pm or so, I tend to take a break from
-technology for several hours, either until 9pm or even until the next morning.
-Do *not* expect me to respond to an email in the evening. Similarly, entire
-weekends go by without my checking my email (the nicer the weather, the less
-chance of a response!), and so it's possible that something
-you send on a Friday evening won't reach me until Monday morning.
-
-In an emergency, you may call me at home at 484-344-5924 or on my cell at
-201-575-6474. No texts, please.
-
-Another small point about email: I have two Bryn Mawr email addresses:
-`rae@cs.brynmawr.edu` and `raeisenber@brynmawr.edu`. Both email addresses
-go to the same place, though, and both work. You do not need to worry about
-which one you send to.
 
 Meetings
 ========

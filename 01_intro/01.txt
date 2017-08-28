@@ -1,0 +1,76 @@
+I. Intro
+II. Syllabus
+III. Statements
+IV. Sets
+V. Relations
+VI. Logical connectives
+
+Intro (0-6)
+ - Background
+ - Programming languages theorist
+ - I'm at ICFP (show web page, etc.)
+ - Sorry!
+
+ - Discrete math:
+    * discrete = not continuous
+    * DM is the basis for computer science (CS started as a math.)
+    * NOT calculus
+    * discrete ≠ discreet
+    
+    
+
+Syllabus (6-20)
+ - Link from main page
+ - Walk through pages
+ - Textbook: some answers are in the back
+ - Piazza
+ - Reading, then study, then homework. Except tonight!
+ - Homework due on **Wednesdays**
+   INCLUDING NEXT WEEK, 9/13.
+ - Homework can be (neatly) handwritten or typeset with e.g. LaTeX
+ - Office hours
+
+Statements (20-30)
+ - Universals
+ - Conditionals
+ - Existentials
+ - These are interchangeable often
+ - They can be nested
+ - Deeply.
+
+Sets (30-40)
+ - { ... }
+ - ∈
+ - ∉
+ - {x ∈ ℝ | x < 0}
+ - ℝ, ℤ, ℕ, ℚ, ℤ⁺, ...
+ - ⊆
+ - ⊂
+ - ∈ vs ⊆
+ - Sets vs Pairs
+ - Sets can contain anything. Including sets. And Pairs
+
+Relations (40-55)
+ - A relation R from A to B is a subset of A × B.
+ - example
+ - Notation: x R y, x /R y
+ - A is domain
+ - B is codomain (range is actually something distinct)
+ - A function is a special type of relation, with this property:
+   A relation R ⊆ A × B is called a /function/, iff:
+    1. ∀ x ∈ A, ∃ b s.t. (a,b) ∈ R.
+    2. ∀ x ∈ A, ∀ y ∈ B, ∀ z ∈ B, (x,y) ∈ R ∧ (x,z) ∈ R ⇒ y=z.
+ - If F is a function, we write F(x) to denote the y.
+ - Examples of functions and non-functions.
+ - A function does not need to have a formula.
+
+ Connectives (55-65)
+  - A "statement" is true or false.
+  - Examples.
+  - ~
+  - ∧ (conjunction)
+  - ∨ (disjunction)
+  - You can nest these.
+  - Logical equivalence: ≡
+
+END WITH HAVING STUDENTS WRITE DOWN A QUESTION!

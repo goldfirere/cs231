@@ -29,11 +29,11 @@ Office Hours:                  Tuesdays 1:30pm-3:30pm
                                If this doesn't work, do not fret. Email instead.
 <span class="strut" />
 Lecture:                       MW 10:10-11:30
-Lecture Room:                  TBD
-Lecture Recordings:            at [Tegrity](https://brynmawr.tegrity.com/#/course/469180d4-da13-44d1-83ff-6056561de389) (Use your Moodle credentials.)
+Lecture Room:                  Park 229
+Lecture Recordings:            at Tegrity: access via [Moodle](https://moodle.brynmawr.edu/course/view.php?id=219); look for link on right side of screen.
 Website:                       <http://cs.brynmawr.edu/cs231>
 GitHub Repo:                   <https://github.com/goldfirere/cs231>
-Mailing List:                  [cs231-fa17@lists.cs.brynmawr.edu][mailing-list]
+Piazza Q&A Forum:              <https://piazza.com/brynmawr/fall2017/cs231/home>
 ----------------------         -----------------------------------------------------------------------------------------------------------------------------------------
 </div>
 
@@ -41,7 +41,10 @@ Mailing List:                  [cs231-fa17@lists.cs.brynmawr.edu][mailing-list]
 
 --------------------           ------------------------------  ----------------------
 Time                           TA                              Location
-TBD                            TBD                             TBD
+TBD                            Rose Lin                        TBD
+TBD                            My Nguyen                       TBD
+TBD                            Caroline Shen                   TBD
+TBD                            Zhengyi Xu                      TBD
 --------------------           ------------------------------  ----------------------
 </div>
 
