@@ -27,6 +27,7 @@ Syllabus (6-20)
  - Reading, then study, then homework. Except tonight!
  - Homework due on **Wednesdays**
    INCLUDING NEXT WEEK, 9/13.
+   SURVEY FOR NEXT WEEK
  - Homework can be (neatly) handwritten or typeset with e.g. LaTeX
  - Office hours
 

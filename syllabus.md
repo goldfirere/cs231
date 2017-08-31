@@ -21,7 +21,7 @@ collected on the following Wednesday.
 +---+-----+--------------------+----------------+--------------------+-------------------+
 |\# |Date |Topic               | Reading        |  Problems          |  Extras           |
 +---+-----+--------------------+----------------+--------------------+-------------------+
-|1  |9/6  |                    |                |                    |                   |
+|1  |9/6  |                    |                | * [Course survey]  |                   |
 |   |     | * Introduction     | * 1.1-1.3      | * 1.1: 11, 13      |                   |
 |   |     | * Syllabus         | * 2.1-2.2      | * 1.2: 4, 9        |                   |
 |   |     | * Logic            |                | * 1.3: 2, 4, 12, 20|                   |
@@ -212,3 +212,5 @@ collected on the following Wednesday.
 +---+-----+--------------------+----------------+--------------------+-------------------+
 
 There will be a self-scheduled final exam during the normal exam period.
+
+[Course survey]: TODO
