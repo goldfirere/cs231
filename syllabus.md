@@ -21,13 +21,14 @@ collected on the following Wednesday.
 +---+-----+--------------------+----------------+--------------------+-------------------+
 |\# |Date |Topic               | Reading        |  Problems          |  Extras           |
 +---+-----+--------------------+----------------+--------------------+-------------------+
-|1  |9/6  |                    |                | * [Course survey]  |                   |
-|   |     | * Introduction     | * 1.1-1.3      | * 1.1: 11, 13      |                   |
-|   |     | * Syllabus         | * 2.1-2.2      | * 1.2: 4, 9        |                   |
-|   |     | * Logic            |                | * 1.3: 2, 4, 12, 20|                   |
+|1  |9/6  |                    |                | * Sign up on       |                   |
+|   |     | * Introduction     | * 1.1-1.3      |[Piazza]            |                   |
+|   |     | * Syllabus         | * 2.1-2.2      | * [Course survey]  |                   |
+|   |     | * Logic            |                | * 1.1: 11, 13      |                   |
+|   |     |                    |                | * 1.2: 4, 9        |                   |
+|   |     |                    |                | * 1.3: 2, 4, 12, 20|                   |
 |   |     |                    |                | * 2.1: 5, 8, 13,   |                   |
 |   |     |                    |                |17, 35, 37, 46, 52  |                   |
-|   |     |                    |                |                    |                   |
 +---+-----+--------------------+----------------+--------------------+-------------------+
 | 2 |9/11 | * Boolean algebra  | * 2.3-2.5      | * 2.2: 10, 15, 21, |                   |
 |   |     | * Conditionals     |                |35, 43, 50          |                   |
@@ -213,4 +214,5 @@ collected on the following Wednesday.
 
 There will be a self-scheduled final exam during the normal exam period.
 
-[Course survey]: TODO
+[Course survey]: https://docs.google.com/forms/d/e/1FAIpQLSeZ9UKe01t1O6guQaBCXSu2bfuDebYqvcH0FESid8dtMmXtWw/viewform?usp=sf_link
+[Piazza]: https://piazza.com/brynmawr/fall2017/cs231
