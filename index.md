@@ -44,7 +44,7 @@ Time                           TA                                            Loc
 Tuesday 9/12, 7-9pm            Rose Lin (<rlin1@brynmawr.edu>)               Park 231
 Monday 9/11, 7-9pm             My Nguyen (<mnguyen1@brynmawr.edu>)           Park 231
 Monday 9/11, 7-9pm             Caroline Shen (<yshen3@brynmawr.edu>)         Park 231
-Thursday 9/7, 3-5pm            Wenqi Wang (<wwang1@brynmawr.edu>)            Park 231
+Thursday 9/7, 4-6pm            Wenqi Wang (<wwang1@brynmawr.edu>)            Park 231
 TBD                            Zhengyi Xu                                    TBD
 --------------------           ---------------------------------------       ----------------------
 </div>
