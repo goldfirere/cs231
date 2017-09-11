@@ -1,0 +1,58 @@
+I. Introductions
+II. Review
+III. Boolean algebra
+IV. Implications
+V. Arguments
+
+Introductions (10:10-10:25)
+ - who I am, very briefly
+ - who you are
+
+Review (10:25-10:45)
+ - questions??
+ - Statements (universals / existentials)
+ - Sets
+ - Relations
+
+Boolean algebra (10:45-11:00)
+  - A "statement" is true or false.
+  - Examples.
+  - ~
+  - ∧ (conjunction)
+  - ∨ (disjunction)
+  - You can nest these.
+  - Logical equivalence: ≡
+  - DeMorgan's
+
+Implications (11:00-11:15)
+ - truth table for P ⇒ Q.
+ - If it's September 31, then I'll bring everyone cookies.
+ - (P ⇒ Q) ≡ (¬P ∨ Q)
+ - Contrapositives
+   - Work out the boolean algebra
+ - iff ≡ P ↔ Q
+ - "necessary"
+ - "sufficient"
+   - Being Monday is a necessary, but not sufficient, condition for us having class.
+   - Monday 9/11 is sufficient.
+ - "If you eat your dinner, you will get dessert."
+
+Arguments (11:15-11:30)
+ - Sequence of statements leading to an irrefutable condition.
+ - Modus ponens
+ - Modus tollens (= modus ponens of contrapositive)
+ - P → (P ∨ Q)
+ - (P ∧ Q) → P
+ - ((P ∧ Q) ∧ ¬Q) → P
+ - (P → Q) ∧ (Q → R) ⇒ (P → R)
+ - Fallacies:
+    - Converse: Thinking (P → Q) implies (Q → P)
+       - Ex: If it's raining, I will carry an umbrella.
+       - Can we conclude anything if I am carrying an umbrella?
+    - Inverse: Thinking (P → Q) ⇒ (¬P → ¬Q)
+       - Ex: Can we conclude anything if it's not raining?
+    - NB: Inverse and converse are contrapositivies
+    - Draw little table
+ - Contadictions:
+    (¬P → c) ⇒ P
+       

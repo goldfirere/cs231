@@ -30,11 +30,11 @@ collected on the following Wednesday.
 |   |     |                    |                | * 2.1: 5, 8, 13,   |                   |
 |   |     |                    |                |17, 35, 37, 46, 52  |                   |
 +---+-----+--------------------+----------------+--------------------+-------------------+
-| 2 |9/11 | * Boolean algebra  | * 2.3-2.5      | * 2.2: 10, 15, 21, |                   |
-|   |     | * Conditionals     |                |35, 43, 50          |                   |
+| 2 |9/11 | * Boolean algebra  | * 2.3-2.5      | * 2.2: 10, 15, 21, | Slides from       |
+|   |     | * Conditionals     |                |35, 43, 50          |Dianna:            |
 |   |     | * Arguments        |                | * 2.3: 10, 13, 23, |                   |
-|   |     |                    |                |28, 29, 32, 40      |                   |
-|   |     |                    |                |                    |                   |
+|   |     |                    |                |28, 29, 32, 40      | * [Boolean logic] |
+|   |     |                    |                |                    | * [Statements]    |
 |   |     |                    |                |                    |                   |
 |   |     |                    |                |                    |                   |
 |   |     |                    |                |                    |                   |
@@ -216,3 +216,5 @@ There will be a self-scheduled final exam during the normal exam period.
 
 [Course survey]: https://docs.google.com/forms/d/e/1FAIpQLSeZ9UKe01t1O6guQaBCXSu2bfuDebYqvcH0FESid8dtMmXtWw/viewform?usp=sf_link
 [Piazza]: https://piazza.com/brynmawr/fall2017/cs231
+[Boolean logic]: 02/boolean-logic.pdf
+[Statements]: 02/arguments.pdf
