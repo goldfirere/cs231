@@ -1,0 +1,41 @@
+I. Administrivia
+II. Questions
+III. Digital Circuitry
+IV. A bit of arithmetic
+
+Administrivia (10:10-10:25)
+ - names
+ - Piazza
+ - survey
+ - groups
+
+Questions (10:25-10:40)
+ - Rewrite only with ∧ and ¬: (p → r) ↔ (q → r)
+
+Digital Circuitry: (10:40-11:00)
+ - AND
+ - OR
+ - NOT
+ - examples
+ - truth tables (via volunteer)
+ - NAND
+ - NOR
+ - write a boolean expression corresponding to a circuit
+ - vice versa
+ - simplify and draw circuit (maybe have students try first):
+    (P ∧ Q) ∨ (¬P ∧ Q) ∨ (¬P ∧ ¬Q)
+
+Arithmetic (11:00-11:30)
+ - binary representation
+ - converting to/from binary (table lookup method)
+    - Try for yourself!
+ - arithmetic
+ - adders:
+   - half: S = P ⊕ Q; C = P ∧ Q
+   - whole: S = P ⊕ Q ⊕ R; C = (P ∧ Q) ∨ (P ∧ R) ∨ (Q ∧ R)
+ - A "two's complement" w.r.t n is 2ⁿ - a.
+ - Finding the two's complement: flip the bits and add 1
+ - Finding two's complement is involutive!
+ - representation of negative numbers
+ - hex notation as an abbreviation
+ 
