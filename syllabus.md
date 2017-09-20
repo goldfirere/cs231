@@ -55,14 +55,14 @@ collected on the following Wednesday.
 |   |     |                    |                |                    |                   |
 |   |     |                    |                |due: 9/20           |                   |
 +---+-----+--------------------+----------------+--------------------+-------------------+
-| 5 |9/20 | * Nested           | * 4.1-4.2      | * 3.3: 4c, 11e, 38,|                   |
-|   |     |quantifiers         |                |40b, 43, 61         |                   |
-|   |     |                    |                | * 3.4: 14, 15, 19, |                   |
+| 5 |9/20 | * Nested           | * 4.1-4.2      | * 3.3: 4c, 11e, 38,|[Quantifiers       |
+|   |     |quantifiers         |                |40b, 43, 61         |exercise] from     |
+|   |     |                    |                | * 3.4: 14, 15, 19, |class              |
 |   |     |                    |                |22, 27, 32, 34      |                   |
-|   |     |                    |                |                    |                   |
+|   |     |                    |                |                    |Slides from Dianna:|
 |   |     |                    |                |due: 9/27           |                   |
-|   |     |                    |                |                    |                   |
-|   |     |                    |                |                    |                   |
+|   |     |                    |                |                    | * [Nested         |
+|   |     |                    |                |                    |quantifiers]       |
 |   |     |                    |                |                    |                   |
 |   |     |                    |                |                    |                   |
 |   |     |                    |                |                    |                   |
@@ -238,3 +238,5 @@ There will be a self-scheduled final exam during the normal exam period.
 [Boolean logic]: 02/boolean-logic.pdf
 [Statements]: 02/arguments.pdf
 [Predicates and quantifiers]: 04/predicates-quantifiers.pdf
+[Nested quantifiers]: 05/multi-quantifiers.pdf
+[Quantifiers exercise]: 05/nested_quants.pdf
