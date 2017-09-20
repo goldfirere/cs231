@@ -1,0 +1,25 @@
+I. Questions?
+II. Nested Quantifiers
+III. Arguments with Quantifiers
+
+Nested Quantifiers
+
+- examples
+- exercise
+- negations
+- "multiply-quantified"
+- order matters!
+
+- Negate: "Everybody loves somebody"
+- Negate: "Somebody knows everyone in the room."
+
+
+Arguments with Quantifiers
+
+- (∀ x, P(x) → Q(x)) ⇒ P(a) ⇒ Q(a)
+- (Everyone who tries succeeds) -> (Robin tries) -> (Robin succeeds)
+- This is **instantiation**
+- (∀ x, P(x) → Q(x)) ⇒ ¬Q(a) ⇒ ¬P(a)    <-- "modus tollens"
+
+- "All computer scientists take discrete math", "Robin takes discrete math" ⇏
+  "Robin is a computer scientist"
