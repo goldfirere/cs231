@@ -1,0 +1,43 @@
+I. Questions?
+II. Proofs
+III. Proving existentials
+IV. Proving universals
+V. Writing proofs
+
+Questions? (10:10-10:25)
+
+Proofs (10:25-10:30)
+ - I don't really care about properties of integers
+ - I care about *techniques*
+
+ - Equality is an equivalence relation
+ - Definition of even numbers
+ - Definition of prime/composite
+
+Existentials (10:30-10:50)
+ - EX: sum of evens is even
+ - EX: product of evens is even
+ - disproofs of universals
+ - EX: all prime numbers are odd
+ - EX: half of every even number is even
+
+Universals (10:50-11:05)
+ - method of exhaustion
+ - Generalization: Proving ∀ x ∈ S, P(x) by choosing a ∈ S and showing P(a)
+    - "opposite" of instantiation
+    - key detail: you know nothing about a!
+
+ - EX: ∀ x,y ∈ E, x + y ∈ E.
+    --> "existential instantiation". But don't use an existing name!
+    --> BAD: ∀ x,y ∈ E, x = y.
+    --> BAD: ∀ x,y ∈ E, x ≠ y.
+
+ - EX: ∀ x,y ∈ P, xy ∉ P.
+
+EXERCISE: (11:05-11:20)
+ Disprove: ∃ n ∈ Z, 6n² + 27 ∈ P.
+
+Writing proofs (11:20-11:30)
+ - Theorem. Proof. QED.
+ - Don't be stingy with paper!
+ - "Every complete, bipartite graph is connected"

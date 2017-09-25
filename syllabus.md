@@ -68,9 +68,9 @@ collected on the following Wednesday.
 |   |     |                    |                |                    |                   |
 +---+-----+--------------------+----------------+--------------------+-------------------+
 | 6 |9/25 | * Proof techniques | * 4.3-4.5      | * 4.1: 6, 10, 13,  |                   |
-|   |     |                    |                |28, 37, 41, 56      |                   |
+|   |     |                    |                |28, 37, 41, 56      |Slides from Dianna:|
 |   |     |                    |                | * 4.2: 10, 18, 19, |                   |
-|   |     |                    |                |20, 25, 32, 36, 38  |                   |
+|   |     |                    |                |20, 25, 32, 36, 38  |* [Direct proof]   |
 |   |     |                    |                |                    |                   |
 |   |     |                    |                |due: 9/27           |                   |
 +---+-----+--------------------+----------------+--------------------+-------------------+
@@ -240,3 +240,4 @@ There will be a self-scheduled final exam during the normal exam period.
 [Predicates and quantifiers]: 04/predicates-quantifiers.pdf
 [Nested quantifiers]: 05/multi-quantifiers.pdf
 [Quantifiers exercise]: 05/nested_quants.pdf
+[Direct proof]: 06/direct-proof.pdf
