@@ -1,0 +1,38 @@
+\documentclass{article}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{enumitem}
+
+\newcommand{\bz}{\mathbb{Z}}
+\newcommand{\AND}{\wedge}
+\newcommand{\OR}{\vee}
+\newcommand{\di}{\mathrel{|}}
+
+\begin{document}
+
+\begin{center}
+CMSC 231: Discrete Mathematics\\
+Proofs Exercises
+\end{center}
+
+\begin{enumerate}[itemsep=2ex]
+\item (4.3.15) Prove: $\forall (a,b,c \in \bz), (a \di b \AND b \di c) \to (a \di (b+c))$
+
+\item (4.3.38) Suppose that in standard factored form, $a = p_1^{e_1} p_2^{e_2} \dots p_k^{e_k}$,
+where $k$ is a positive integer; $p_1, p_2, \ldots, p_k$ are prime numbers; and $e_1, e_2, \ldots, e_k$ are positive integers.
+\begin{enumerate}
+\item What is the standard factored form for $a^2$?
+\item Find the least positive integer $n$ such that $2^5\cdot 3 \cdot 5^2 \cdot 7^3 \cdot n$ is a perfect square. Write the resulting product as a perfect square.
+\item Find the least positive integer $m$ such that $2^2 \cdot 3^5 \cdot 7 \cdot 11 \cdot m$ is
+a perfect square. Write the resulting product as a perfect square.
+\end{enumerate}
+
+\item (4.4.50) If $n$, $m$, and $d$ are integers, $d > 0$, and $d \di (m - n)$ what is
+the relation between $m \mathop{mod} d$ and $n \mathop{mod} d$? Prove your answer.
+
+\item (4.5.12) Prove: $\forall \text{ even numbers } n, \lfloor n/2 \rfloor = n /2$.
+
+\end{enumerate}
+
+\end{document}

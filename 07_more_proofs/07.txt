@@ -1,0 +1,19 @@
+I. Questions?
+II. Important Theorems
+III. Floor & Ceiling
+
+Fund Thm of Arithmetic
+ - all numbers have a unique factorization into primes
+ - (examples)
+
+Quotient-Remainder Thm
+ - ∀ n ∈ ℤ, ∀ d ∈ ℤ⁺, ∃! q ∈ ℤ, ∃! r ∈ ℤ, n = dq + r ∧ 0 ≤ r < d.
+ - "div"
+ - "mod"m
+ (examples)
+
+Floor / Ceiling
+ - ⌊x⌋ = n s.t. n ≤ x < n + 1
+ - ⌈x⌉ = n s.t. n - 1 < x ≤ n
+ - (examples)
+ - applications
