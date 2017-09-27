@@ -25,7 +25,7 @@ Office Phone:                  610-526-5061
 Home Phone (emergencies only): 484-344-5924
 Cell Phone (emergencies only): 201-575-6474 (no texts, please)
 Office:                        Park 204
-Office Hours:                  Tuesdays 1:30pm-3:30pm
+Office Hours:                  Mondays 3:30-4:30pm, Tuesdays 1:30pm-2:30pm
                                If this doesn't work, do not fret. Email instead.
 <span class="strut" />
 Lecture:                       MW 10:10-11:30
