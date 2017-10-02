@@ -82,12 +82,13 @@ collected on the following Wednesday.
 |   |     |                    |                |due: 10/4           |                   |
 |   |     |                    |                |                    |                   |
 +---+-----+--------------------+----------------+--------------------+-------------------+
-|8  |10/2 | * Proof by         |                |                    | * Practice exam   |
-|   |     |contradiction       |                |                    |                   |
-|   |     | * Review           |                |                    |                   |
+|8  |10/2 | * Proof by         |                |                    | * [Practice exam  |
+|   |     |contradiction       |                |                    |1]                 |
+|   |     | * Review           |                |                    | * [Practice exam 1|
+|   |     |                    |                |                    |solutions]         |
 +---+-----+--------------------+----------------+--------------------+-------------------+
-| 9 |10/4 | **EXAM 1**         | * 5.1          | * 4.8: 8b, 16, 20, |                   |
-|   |     |                    |                |24, 28              |                   |
+| 9 |10/4 | **EXAM 1**         | * 5.1          | * 4.6: 4, 12, 22,  |                   |
+|   |     |                    |                |28, 35              |                   |
 |   |     |                    |                |                    |                   |
 |   |     |                    |                |due: 10/11          |                   |
 +---+-----+--------------------+----------------+--------------------+-------------------+
@@ -241,3 +242,5 @@ There will be a self-scheduled final exam during the normal exam period.
 [Nested quantifiers]: 05/multi-quantifiers.pdf
 [Quantifiers exercise]: 05/nested_quants.pdf
 [Direct proof]: 06/direct-proof.pdf
+[Practice exam 1]: 08/review1.pdf
+[Practice exam 1 solutions]: 08/review1sols.pdf
