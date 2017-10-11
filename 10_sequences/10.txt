@@ -1,0 +1,30 @@
+I. Questions?
+II. Proof by contradiction
+III. Sequences
+
+Pf by contradiction:
+ - There is no least positive rational number.
+
+Sequences:
+ find an expression for 1, -2, 3, -4, 5, -6, ...
+
+ Σ-notation
+  - expanding to ... notation
+  - contracting to Σ notation
+  - removing and adding a term
+  - telescoping sums: find an expression for Σk
+
+ Π-notation
+
+Properties of sums & products:
+ - Σa + Σb = Σ(a+b)
+ - cΣa = Σ(ca)  (but make sure it's a constant)
+ - (Πa)(Πb) = Π(ab)
+ but make sure the bounds are the same!!
+
+change of variable
+
+Factorials
+
+n-choose-r
+ - n choose r = n! / (r! (n-r)!)

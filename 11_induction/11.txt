@@ -1,0 +1,41 @@
+Questions:
+ - If i = j - 1, then why can we change Σⱼ to Σᵢ?
+ - Why is proof by contradiction not proving the negation? Is it because it's
+   actually disproving the negation?  A: YES!
+ - When test back? How is the grading done?
+ - Further explain factorial expression.
+ - How do we get "All ints > 11 are the sum of two composites" without the hint?
+ - What will we do with Σ and Π?
+ - How do I recommend you work for this class? (e.g., alone, with TAs, etc.)
+ - Why use proof by contraposition? A: Because taking the contrapositive is often
+   easier than taking a negation!
+
+{-
+
+∀ n ∈ ℤ, n > 11 → ∃ a,b ∈ ℤ, comp(a) ∧ comp(b) ∧ a + b = n
+
+Negation:
+∃ n ∈ ℤ, n > 11 ∧ ∀ a,b ∈ ℤ, prime(a) ∨ prime (b) ∨ a + b ≠ n
+
+We have n with n > 11.
+
+Split into cases:
+ Case n is even:
+  It must be that prime(4) ∨ prime(n-4). But 4 isn't prime, and neither is n-4 (b/c it's even)
+  and not 2.
+
+ Case n is odd:
+  It must be that prime(9) ∨ prime(n-9). But 9 isn't prime, and neither is n-9 (b/c it's even
+  and not 2).
+
+ QED.
+   
+-}
+
+2	62
+2.3	70
+2.7	78
+3	83
+3.3	87
+3.7	90
+4	93
