@@ -75,7 +75,7 @@ collected on the following Wednesday.
 |   |     |                    |                |due: 9/27           |                   |
 +---+-----+--------------------+----------------+--------------------+-------------------+
 | 7 |9/27 | * More proof       | * 4.6-4.8      | * 4.3: 16, 20, 39, |                   |
-|   |     |techniques and      |                |43, 49              |                   |
+|   |     |techniques and      |                |43, extra credit: 49|                   |
 |   |     |applications        |                | * 4.4: 25, 52      |                   |
 |   |     |                    |                | * 4.5: 11, 13, 25  |                   |
 |   |     |                    |                |                    |                   |
@@ -124,9 +124,10 @@ collected on the following Wednesday.
 |   |     |                    |                |due: 10/25          |                   |
 +---+-----+--------------------+----------------+--------------------+-------------------+
 |13 |10/25| * Induction in     | * 5.9          | * 5.4: 2, 15, 18,  | Skipped: 5.7-5.8, |
-|   |     |programming         | * 6.1-6.2      |19, 21, 25          |but you may enjoy  |
-|   |     |                    |                | * 5.5: 2, 7, 9, 12 |reading these      |
-|   |     |                    |                | * 5.6: 8, 14, 20,  |anyway             |
+|   |     |programming         | * 6.1-6.2      |19, 21 (use proof by|but you may enjoy  |
+|   |     |                    |                |contradiction), 25  |reading these      |
+|   |     |                    |                | * 5.5: 2, 7, 9, 12 |anyway             |
+|   |     |                    |                | * 5.6: 8, 14, 20,  |                   |
 |   |     |                    |                |32, 40              |                   |
 |   |     |                    |                |                    |                   |
 |   |     |                    |                |due: 11/1           |                   |

@@ -1,0 +1,112 @@
+I. Questions?
+II. Old problems
+III. Induction
+IV. Well-ordering principle
+V. Loop Invariants
+VI. Recurrence relations
+
+Old problems:
+ - 4.6.35. Use proof by contradiction to show that every integer greater than 11 is a sum of two
+   composite numbers.
+
+ - 5.1.79: Prove that is p is a prime number as r is an integer with 0 < r < p, then
+   p `choose` r is divisible by p.
+
+Induction
+ - strong vs weak
+ - book vs class
+ - harder proof
+
+
+{-
+Use Σi = n(n+1)/2 and Σi² = n(n+1)(2n+1)/6 to prove that if p is prime with p ≥ 5,
+then the sum of squares of any p consecutive integers is divisible by p.
+
+Pf.
+By induction.
+Base case p = 5:
+  WTP: sum of squares of any 5 integers is divisible by 5.
+  WTP: 5 | (k+5)(k+6)(2k+11)/6 - k(k+1)(2k+1)/6
+       5 | ((k² + 11k + 30)(2k + 11) - (k² + k)(2k + 1)) / 6
+       5 | ((2k³ + 11k² + 22k² + 121k + 60k + 330) - (2k³ + k² + 2k² + k)) / 6
+       5 | (2k³ + 33k² + 181k + 330 - 2k³ - 3k² - k) / 6
+       5 | (30k² + 180k + 330) / 6
+       5 | 5k² + 30k + 55
+       5 | 5(k² + 6k + 11)
+       DONE.
+
+Not by induction.
+
+   WTP: p | (k+p)(k+p+1)(2k+2p+1)/6 - k(k+1)(2k+1)/6
+        p | ((k² + 2pk + k + pk + p² + p)(2k + 2p + 1) - 2k³ - 3k² - k) / 6
+	p | ((k² + 3pk + k + p² + p)(2k + 2p + 1) - 2k³ - 3k² - k) / 6
+	p | (2k³ + 2pk² + k² + 6pk² + 6p²k + 3pk + 2k² + 2pk + k + 2p²k + 2p³ + p² + 2pk + 2p² + p - 2k³ - 3k² - k) / 6
+	p | (8pk² + 8p²k + 7pk + 2p³ + 3p² + p) / 6
+	p | p(8k² + 8pk + 7k + 2p² + 3p + 1) / (2*3)
+	DONE.
+
+-}
+
+Thm: 2ⁿ < (n+1)! for all integers n ≥ 2
+Pf. By induction.
+
+Base case n = 2:
+  WTP: 2² < 3!
+  WTP: 4  < 6
+  QED.
+
+Inductive case n > 2:
+  IH: ∀ m ∈ ℤ, (m ≥ 2 ∧ m < n) → 2ᵐ < (m+1)!
+  WTP: 2ⁿ < (n+1)!
+  Suppose x s.t. n = x + 1.
+  We know x ≥ 2 ∧ x < n
+  Thus: 2ˣ < (x+1)!
+  WTP: 2ⁿ < (n+1)!
+  WTP: 2ˣ⁺¹ < (x+2)!
+  WTP: 2*2ˣ < (x+2)(x+1)!
+  We know: 2ˣ < (x+1)!
+  Thus: (x+2)*2ˣ < (x+2)(x+1)!
+  We know x + 2 > 2.
+  Thus: 2 * 2ˣ < (x+2)*2ˣ.
+  Thus: 2*2ˣ < (x+2)*2ˣ < (x+2)(x+1)!
+  Thus: 2*2ˣ < (x+2)(x+1)!
+  QED.
+
+
+Well-ordering principle
+ - useful technique.
+ - see book.
+
+Loop invariants
+ - Loop Invariant Thm on projector. (p. 282)
+
+
+ Pre-condition: sum = 0, i = 0
+ while(i < v)
+ {
+	sum = sum + i;
+	i = i + 1;
+ }
+
+ Post-condition: sum = v*(v-1)/2
+ Invariant(n): i = n ∧ sum = i*(i-1)/2
+
+Check the premises of LIT.
+I. Basis property: is I(0) true? I(0) = sum = 0. Yes!
+II. Inductive property: If i < v ∧ I(k), then I(k+1).
+      WTP: after loop, i = k+1 ∧ sum = k(k+1)/2
+      Know: before loop, i = k ∧ sum = k(k-1)/2
+      WTP: i+1 = k+1 ∧ k(k-1)/2 + k = k(k+1)/2
+                       (k² + k)/2 = (k² + k)/2
+		       QED.
+III. Eventual falsity of guard: i < v becomes false eventually.
+       IOW: ∃ n s.t. n iterations of the loop causes i ≥ v.
+       Choose n = v.
+
+IV. Correctness of post-condition: Examine I(v).
+
+
+
+
+Recurrence relations:
+ - definition
