@@ -1,0 +1,51 @@
+I. Recurrence Relations
+II. Recursively-defined Sets
+III. Set Operations
+IV. Set Properties
+
+Recurrence Relations
+ - definitions
+ - Tower of Hanoi
+ - solving by iteration
+    3.  aₖ = kaₖ₋₁
+        a₀ = 1
+
+    5.  cₖ = 3cₖ₋₁ + 1
+        c₁ = 1
+
+Recursively-defined Sets
+ - expression language
+ - prove that every expr has a number
+
+Set operations
+ - ⊆ is a universal property
+ - ∪
+ - ∩
+ - subtraction ( \ )
+ - complement: ᶜ
+ - interval notation
+ - big-∪, big-∩
+ - ∅
+ - "disjoint"
+ - partitions
+ - power sets, \mathcal{P}
+
+ 19. Let Aᵢ = {i,i²} for all integers i = 1,2,3,4
+     a. A₁ ∪ A₂ ∪ A₃ ∪ A₄ = ?
+     b. A₁ ∩ A₂ ∩ A₃ ∩ A₄ = ?
+     c. Are they mutually disjoint?
+
+Set properties
+ - A ∩ B ⊆ A  and   A ∩ B ⊆ B
+ - A ⊆ A ∪ B  and   B ⊆ A ∪ B
+ - transitivity
+
+ - technique: unroll definitions; recall X ∪ Y = {z | z ∈ X ∨ z ∈ Y}
+
+ - x ∈ X ∪ Y   ↔   x ∈ X ∨ x ∈ Y
+ - x ∈ X ∩ Y   ↔   x ∈ X ∧ x ∈ Y
+ - x ∈ X - Y   ↔   x ∈ X ∧ x ∉ Y
+ - x ∈ Xᶜ      ↔   x ∉ X
+ - (x, y) ∈ X × Y  ↔  x ∈ X ∧ y ∈ Y
+
+ - Prove (6.2.13): For all sets A, B, and C, if A ⊆ B then A ∩ C ⊆ B ∩ C.
