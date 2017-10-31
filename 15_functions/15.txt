@@ -1,0 +1,59 @@
+I. Set properties
+II. Section 6.4
+  - Boolean algebras
+  - Russell's Paradox
+  - Halting Problem
+III. Function Properties
+
+Handshake problem, #29 from 5.2 or 5.3
+ As each of a group of businesspeople arrives at a meeting, each
+ shakes hands with all the other people present. Use
+ mathematical induction to show that if n people come to
+ the meeting then [n(n-1)]/2 handshakes occur.
+
+Set properties
+ - A ∩ B ⊆ A  and   A ∩ B ⊆ B
+ - A ⊆ A ∪ B  and   B ⊆ A ∪ B
+ - transitivity
+
+ - technique: unroll definitions; recall X ∪ Y = {z | z ∈ X ∨ z ∈ Y}
+
+ - x ∈ X ∪ Y   ↔   x ∈ X ∨ x ∈ Y
+ - x ∈ X ∩ Y   ↔   x ∈ X ∧ x ∈ Y
+ - x ∈ X - Y   ↔   x ∈ X ∧ x ∉ Y
+ - x ∈ Xᶜ      ↔   x ∉ X
+ - (x, y) ∈ X × Y  ↔  x ∈ X ∧ y ∈ Y
+
+ - Prove (6.2.13): For all sets A, B, and C, if A ⊆ B then A ∩ C ⊆ B ∩ C.
+
+
+- Boolean algebras
+  --> useful in research!
+- Russell's Paradox
+   S = { A | A is a set and A ∉ A }
+   infinite hierarchies of universes
+   
+- Halting Problem
+   Suppose CheckHalt(X, D) where X is an algorithm and D is its input.
+   But an algorithm can be an input.
+   Define Test(X) to:
+     - loop forever if CheckHalt(X, X) prints "halts"
+     - halt if CheckHalt(X, X) prints "loops forever"
+   What does Test(Test) do ?? ????? ???????????
+   
+
+Function properties
+ - one-to-one, aka injective
+ - onto, aka surjective
+ - "one-to-one correspondence", aka bijection
+
+7.2.21. Let S be the set of all strings of 0s and 1s, and define
+  ℓ: S → ℤnonneg by
+
+     ℓ(s) = the length of s,  for all strings s in S
+
+a. Is ℓ injective? Prove or give a counterexample.
+b. Is ℓ surjective? Prove or give a counterexample.
+
+
+

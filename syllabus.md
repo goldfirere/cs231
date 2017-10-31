@@ -194,20 +194,21 @@ collected on the following Wednesday.
 |   |     |                    |                |                    |                   |
 |   |     |                    |                |due: 11/22          |                   |
 +---+-----+--------------------+----------------+--------------------+-------------------+
-|20 |11/20| * Permutations and | * 9.6-9.8      | * 9.3: 2, 10, 17,  |                   |
-|   |     |combinations        |                |20, 21, 22, 30, 49  |                   |
-|   |     |                    |                | * 9.4: 11, 16, 19, |                   |
+|20 |11/20| * Permutations and | * 9.6, 9.8-9.9 | * 9.3: 2, 10, 17,  | Skipped: 9.7      |
+|   |     |combinations        |                |20, 21, 22, 30, 49  |(though it really  |
+|   |     |                    |                | * 9.4: 11, 16, 19, |is interesting)    |
 |   |     |                    |                |30, 32, 36          |                   |
 |   |     |                    |                | * 9.5: 7, 11, 16,  |                   |
 |   |     |                    |                |20, 28              |                   |
 |   |     |                    |                |                    |                   |
 |   |     |                    |                |due: 11/22          |                   |
 +---+-----+--------------------+----------------+--------------------+-------------------+
-|21 |11/22| * Pascal's Triangle| * 9.9          |                    |                   |
-|   |     |                    |                |                    |                   |
-|   |     |                    |                |                    |                   |
-|   |     |                    |                |                    |                   |
-|   |     |                    |                |                    |                   |
+|21 |11/22| * Formal           |                |                    | This topic will   |
+|   |     |verification of     |                |                    |not be tested, but |
+|   |     |discrete mathematics|                |                    |if you come, you   |
+|   |     |                    |                |                    |will learn a [fun  |
+|   |     |                    |                |                    |programming        |
+|   |     |                    |                |                    |language].         |
 +---+-----+--------------------+----------------+--------------------+-------------------+
 |   |     |                    |                |                    |                   |
 |   |     |**THANKSGIVING      |                |                    |                   |
@@ -215,7 +216,7 @@ collected on the following Wednesday.
 |   |     |                    |                |                    |                   |
 +---+-----+--------------------+----------------+--------------------+-------------------+
 |22 |11/27| * Expected value   | * 10.1-10.2    | * 9.8: 5, 15, 18,  |                   |
-|   |     |                    |                |20, 21, 23          |                   |
+|   |     | * Bayes theorem    |                |20, 21, 23          |                   |
 |   |     |                    |                | * 9.9: 15, 24, 28, |                   |
 |   |     |                    |                |29, 30, 33          |                   |
 |   |     |                    |                |                    |                   |
@@ -264,3 +265,4 @@ There will be a self-scheduled final exam during the normal exam period.
 [Direct proof]: 06/direct-proof.pdf
 [Practice exam 1]: 08/review1.pdf
 [Practice exam 1 solutions]: 08/review1sols.pdf
+[fun programming language]: https://coq.inria.fr/
