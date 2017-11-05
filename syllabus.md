@@ -175,11 +175,11 @@ collected on the following Wednesday.
 |   |     |                    |                |                    |                   |
 |   |     |                    |                |due: 11/8           |                   |
 +---+-----+--------------------+----------------+--------------------+-------------------+
-|17 |11/8 | * Equivalence      |                |                    | * Practice exam   |
-|   |     |classes             |                |                    |                   |
-|   |     | * Relations in     |                |                    |                   |
-|   |     |computer science    |                |                    |                   |
-|   |     | * Review           |                |                    |                   |
+|17 |11/8 | * Equivalence      |                |                    | * [Practice exam  |
+|   |     |classes             |                |                    |2] (no solutions   |
+|   |     | * Relations in     |                |                    |will be posted;    |
+|   |     |computer science    |                |                    |post your own on   |
+|   |     | * Review           |                |                    |Piazza!)           |
 +---+-----+--------------------+----------------+--------------------+-------------------+
 |18 |11/13|                    | * 9.1-9.2      |* 8.5: 4, 7, 32, 41 |                   |
 |   |     | **EXAM 2**         |                |                    |                   |
@@ -266,3 +266,4 @@ There will be a self-scheduled final exam during the normal exam period.
 [Practice exam 1]: 08/review1.pdf
 [Practice exam 1 solutions]: 08/review1sols.pdf
 [fun programming language]: https://coq.inria.fr/
+[Practice exam 2]: 17/review2.pdf
