@@ -1,0 +1,28 @@
+I. Functions
+II. Composition
+III. Relations
+
+Functions
+ - action on sets
+ - subtraction / addition
+ - identity
+ - equality
+ - types
+
+Composition
+ - injective ∘ injective = injective
+ - surjective ∘ surjective = surjective
+ - composition/identity
+ - composition/inverse
+
+ Activity: prove that the injectivity and surjectivity properties. Swap papers and give feedback.
+
+Relations
+ - inverses always exist
+ - "endorelation"
+ - n-ary relations
+ - reflexivity
+ - symmetry
+ - transitivity
+ - "equivalence relation"
+ - closures (book only talks about transitive)
