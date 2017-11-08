@@ -1,2 +1,15 @@
 * 8.3: 4, 23, 37,
 46
+
+I. Equivalence relations & classes
+
+
+
+
+Equivalence relations
+
+- refl/sym/trans
+- equivalence classes
+- notation: [a]
+- For all a and b in A, if [a] = [b] then a R b
+
