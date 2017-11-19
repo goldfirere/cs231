@@ -1,0 +1,18 @@
+I. Questions?
+II. Partial orders?
+III. Counting
+IV. Multiplication Rule
+
+Counting
+
+P(E) = # of outcomes in E / # of outcomes in S
+odds of having certain sets of children
+
+Mult Rule
+
+Permutations
+P(n, r) = n!/(n-r)!
+
+dividing a count by a quotient
+
+9.2.31

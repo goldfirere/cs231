@@ -1,0 +1,18 @@
+I. Questions?
+II. Addition Rule
+III. Pigeonhole Principle
+IV. Combinations
+
+Addition Rule
+ - N(A ∪ B) = N(A) + N(B) when A and B are disjoint (generalize to mut. disjoint)
+ - Actually, N(A ∪ B) = N(A) + N(B) - N(A ∩ B)
+ - And N(A ∪ B ∪ C) = N(A) + N(B) + N(C) - N(A ∩ B) - N(B ∩ C) - N(A ∩ C) + N(A ∩ B ∩ C)
+
+Pigeonhole Principle
+ - Problems from book. (but not 11, 16, 19, 30, or 32)
+
+Combinations
+
+ n-choose-r
+ How many bit strings of length 10 contain, say, 3 1s
+ How many poker hands are there?
