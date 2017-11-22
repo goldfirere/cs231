@@ -16,3 +16,12 @@ Combinations
  n-choose-r
  How many bit strings of length 10 contain, say, 3 1s
  How many poker hands are there?
+
+
+2	56
+2.3	65
+2.7	74
+3	80
+3.3	85
+3.7	89
+4	93

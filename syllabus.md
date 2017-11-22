@@ -210,6 +210,8 @@ collected on the following Wednesday.
 |   |     |                    |                |                    |will learn a [fun  |
 |   |     |                    |                |                    |programming        |
 |   |     |                    |                |                    |language].         |
+|   |     |                    |                |                    |                   |
+|   |     |                    |                |                    |[demo.v]           |
 +---+-----+--------------------+----------------+--------------------+-------------------+
 |   |     |                    |                |                    |                   |
 |   |     |**THANKSGIVING      |                |                    |                   |
@@ -268,3 +270,4 @@ There will be a self-scheduled final exam during the normal exam period.
 [Practice exam 1 solutions]: 08/review1sols.pdf
 [fun programming language]: https://coq.inria.fr/
 [Practice exam 2]: 17/review2.pdf
+[demo.v]: 21/demo.v

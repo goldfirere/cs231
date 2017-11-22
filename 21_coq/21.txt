@@ -1,0 +1,10 @@
+intro x
+pose proof (...) as ...
+destruct
+assumption
+contradiction
+reflexivity
+simpl in *
+apply
+
+<bullets>
