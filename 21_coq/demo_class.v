@@ -313,7 +313,8 @@ Proof.
     contradiction.
 Qed.
 
-Theorem problem_2_1_53 : forall p q, ~((~p /\ q) \/ (~p /\ ~q)) \/ (p /\ q) <-> p.
+Theorem problem_2_1_53 :
+  forall p q, ~((~p /\ q) \/ (~p /\ ~q)) \/ (p /\ q) <-> p.
 Proof.
   intro p. intro q.
   rewrite or_deMorgan. (* rewrite uses a proof of equivalence to rewrite the goal *)
@@ -372,7 +373,8 @@ Qed.
 
 (* Section 3.2 *)
 
-Theorem forall_deMorgan : forall {A} {P : A -> Prop}, ~(forall x, P x) <-> exists y, ~(P y).
+Theorem forall_deMorgan : forall {A} {P : A -> Prop},
+    ~(forall x, P x) <-> exists y, ~(P y).
 Proof.
   intro A. intro P.
   split.
@@ -393,7 +395,8 @@ Proof.
     contradiction.
 Qed.
 
-Theorem exists_deMorgan : forall {A} {P : A -> Prop}, ~(exists x, P x) <-> forall y, ~(P y).
+Theorem exists_deMorgan : forall {A} {P : A -> Prop},
+    ~(exists x, P x) <-> forall y, ~(P y).
 Proof.
   intro A. intro P.
   split.
@@ -412,9 +415,19 @@ Qed.
 
 (* Section 3.3 *)
 
-(* There exists a positive integer m such that for all positive integers n, m <= n. *)
-Theorem example_3_3_5 : exists m, m > 0 /\ forall n, n > 0 -> m <= n.
- 
+(* There exists a positive integer m such that for all
+   positive integers n, m <= n. *)
+Theorem example_3_3_5 : exists m,
+    m > 0 /\ forall n, n > 0 -> m <= n.
+Proof.
+  exists 1.
+  split.
+  - omega.
+  - intro n.
+    intro n_gt_0.
+    omega.
+Qed.
+  
 (* Section 4.1 *)
 Definition even n := exists k, n = 2 * k.
 Definition odd n  := exists k, n = 2 * k + 1.
@@ -469,6 +482,28 @@ Qed.
 
 (* Coq can do induction! *)
 Theorem even_or_odd : forall n, even n \/ odd n.
+Proof.
+  intro n.
+  induction n.
+  - left.
+    unfold even.
+    exists 0.
+    omega.
+  - destruct IHn.
+    + right.
+      unfold even in H.
+      destruct H.
+      unfold odd.
+      exists x.
+      omega.
+    + left.
+      unfold odd in H.
+      destruct H.
+      unfold even.
+      exists (x + 1).
+      omega.
+Qed.
+      
 
 Theorem not_odd__even : forall n, ~ (odd n) <-> even n.
 Proof.
