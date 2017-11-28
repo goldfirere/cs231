@@ -218,10 +218,10 @@ collected on the following Wednesday.
 |   |     |BREAK**             |                |                    |                   |
 |   |     |                    |                |                    |                   |
 +---+-----+--------------------+----------------+--------------------+-------------------+
-|22 |11/27| * Expected value   | * 10.1-10.2    | * 9.8: 5, 15, 18,  |                   |
-|   |     | * Bayes theorem    |                |20, 21              |                   |
-|   |     |                    |                | * 9.9: 15, 24, 28, |                   |
-|   |     |                    |                |29, 30              |                   |
+|22 |11/27| * Expected value   | * 10.1-10.2    | * 9.8: 5, 15, 18,  | * [Gambling       |
+|   |     | * Bayes theorem    |                |20, 21              |probability]       |
+|   |     |                    |                | * 9.9: 15, 24, 28, | * [Conditional    |
+|   |     |                    |                |29, 30              |probability]       |
 |   |     |                    |                |                    |                   |
 |   |     |                    |                |due: 11/29          |                   |
 +---+-----+--------------------+----------------+--------------------+-------------------+
@@ -271,3 +271,5 @@ There will be a self-scheduled final exam during the normal exam period.
 [fun programming language]: https://coq.inria.fr/
 [Practice exam 2]: 17/review2.pdf
 [demo.v]: 21/demo.v
+[Gambling probability]: 22/gambling-probability.pdf
+[Conditional probability]: 22/conditional-probability.pdf
